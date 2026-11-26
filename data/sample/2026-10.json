@@ -1,0 +1,33 @@
+{
+  "month": "2026-10",
+  "currency": "JPY",
+  "note": "架空のサンプルデータです",
+  "income": {
+    "salary": 520000,
+    "other": 8000,
+    "total": 528000
+  },
+  "expense": {
+    "food": 68000,
+    "daily_goods": 12000,
+    "housing": 95000,
+    "utilities": 18000,
+    "transport": 15000,
+    "telecom": 9000,
+    "education": 30000,
+    "leisure": 22000,
+    "medical": 6000,
+    "other": 14000,
+    "total": 289000
+  },
+  "accounts": [
+    {
+      "name": "サンプル銀行 メイン口座",
+      "balance": 850000
+    },
+    {
+      "name": "サンプル銀行 貯蓄口座",
+      "balance": 2400000
+    }
+  ]
+}
